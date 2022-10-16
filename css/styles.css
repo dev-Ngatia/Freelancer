@@ -11442,7 +11442,11 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 10rem;
+  border-style: solid;
+  border-width: 12px;
+  border-radius: 500px;
+
 }
 
 @media (min-width: 992px) {
